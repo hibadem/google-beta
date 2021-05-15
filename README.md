@@ -1,5 +1,5 @@
 # google-beta
 Google Beta
 <p align="center">
-  <img src="picture.png" alt="google clone"/>
+  <img src="picture.PNG" alt="google clone"/>
 </p>
