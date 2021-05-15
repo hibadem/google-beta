@@ -4,6 +4,7 @@
 <p align="center">
   <img src="picture.PNG" alt="google clone"/>
 </p>
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
